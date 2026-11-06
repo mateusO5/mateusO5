@@ -51,12 +51,11 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Front-end e 
 
 <div align="center">
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=mateus05&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=mateusO5&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mateus05&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mateusO5&layout=compact&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ### 📫 Vamos nos conectar?
