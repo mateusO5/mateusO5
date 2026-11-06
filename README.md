@@ -46,13 +46,14 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Front-end e 
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateus05&show_icons=true&theme=tokyonight)
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=mateus05&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus05&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mateus05&layout=compact&theme=tokyonight"/>
 
 </div>
 
